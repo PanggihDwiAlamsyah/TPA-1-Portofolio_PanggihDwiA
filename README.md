@@ -30,3 +30,4 @@ Membuat personal website menggunakan HTML dan CSS (Flexbox atau Grid), menguploa
 ## Scrensoot Landing Page
 
 - Berikut Screnshoot Dengan Ukuran layar laptop 14inc, menggunakan Microsoft Edge(Ukuran zoom 67%)
+![image](https://user-images.githubusercontent.com/77493833/229688542-a167b4c7-c411-4d29-af9e-cf705866aae8.png)
