@@ -26,6 +26,7 @@ Membuat personal website menggunakan HTML dan CSS (Flexbox atau Grid), menguploa
     https://www.crissyw.com/
 
 ## Link Akses Portofolio
+- Netlify : https://portofolio-panggihdwialamsyah.netlify.app/
 
 ## Scrensoot Landing Page
 
